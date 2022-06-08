@@ -1,0 +1,10 @@
+【AWS 入門】AWS を使って React アプリをデプロイしてみよう ~AWS Amplify を使用~ - YouTube
+https://www.youtube.com/watch?v=m9ZjW1md_OQ
+
+[実行ポリシーを許可に変更方法]PowerShell でこのシステムではスクリプトの実行が無効になっているため、ファイル hoge.ps1 を読み込むことができません。となったときの対応方法 - Qiita
+https://qiita.com/ponsuke0531/items/4629626a3e84bcd9398f
+実行ポリシーを許可に変更するターミナルコマンド
+「Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process」
+
+デプロイ済みサイト
+https://main.d1wpfst2s46ko7.amplifyapp.com/
